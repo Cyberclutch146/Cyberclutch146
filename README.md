@@ -1,27 +1,137 @@
-# 💫 About Me:
-🔭 I’m currently working on HealthCare+<br>👯 I’m looking to collaborate on Full Stack Development<br>🤝 I’m looking for help with learning web3 Development<br>🌱 I’m currently learning Solidity and web3.js<br>💬 Ask me about react.js<br>⚡ Fun fact , I am obsessed with robotics
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00FFFF,100:0f2027&height=200&section=header&text=CYBERCLUTCH146&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</h1>
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=2500&color=00FFFF&center=true&vCenter=true&width=700&lines=Swagata+Ganguly;Robotics+%2B+AI+Engineer;Hackathon+Mode+Always+On;Build.+Break.+Dominate." />
+</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/undiagnosed.psycopath) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swagata-ganguly-453aa6327/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:blazingswagata@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Cyberclutch146&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Cyberclutch146&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberclutch146&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Cyberclutch146&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Cyberclutch146&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Cyberclutch146&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Cyberclutch146&icon=0&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 PORTFOLIO
+
+<div align="center">
+
+<a href="https://swagata.tech">
+  <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/main/portfolio.png" />
+</a>
+
+<br><br>
+
+<b>swagata.tech</b><br>
+<sub>Projects • Skills • Work • Identity</sub>
+
+</div>
+
+---
+
+## ⚡ TECH MATRIX
+
+### 🎨 FRONTEND
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite" />
+</p>
+
+---
+
+### ⚙️ BACKEND
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+---
+
+### 🗄 DATABASES
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase" />
+</p>
+
+---
+
+### ☁️ CLOUD & DEVOPS
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,vercel,gcp" />
+</p>
+
+---
+
+### 🧠 AI / ML
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
+</p>
+
+---
+
+### 🤖 HARDWARE / ROBOTICS
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino" />
+</p>
+
+---
+
+### ⚒ TOOLS
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40"/>
+</p>
+
+---
+
+## 📊 SYSTEM ANALYTICS
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cyberclutch146&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cyberclutch146&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Cyberclutch146&theme=tokyonight&hide_border=true&background=0d1117"/>
+</div>
+
+---
+
+## 🏆 ACTIVITY GRAPH
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyberclutch146&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00ffff&line=8A2BE2&point=ffffff"/>
+</div>
+
+---
+
+## 🐍 LIVE ACTIVITY
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/output/github-snake-dark.svg"/>
+</div>
+
+---
+
+## 🎮 VISUAL CORE
+
+<div align="center">
+  <img height="180" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+  <img height="180" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+  <img height="180" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
+</div>
+
+---
+
+## 🌐 ACCESS
+
+<div align="center">
+  <a href="https://github.com/Cyberclutch146">
+    <img src="https://img.shields.io/badge/ENTER_PROFILE-000000?style=for-the-badge&logo=github&logoColor=00ffff"/>
+  </a>
+</div>
+
+---
+
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:8A2BE2&height=120&section=footer"/>
+</h1>
