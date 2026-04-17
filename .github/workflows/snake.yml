@@ -13,13 +13,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Neon Snake
+      - name: Generate High Visibility Snake
         uses: Platane/snk@v3
         with:
           github_user_name: Cyberclutch146
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#00ffff&color_dots=#000000,#050505,#0f2027,#1a1a2e,#8A2BE2,#00ffff,#ffffff
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#00ffff&color_dots=#2d3748,#4a5568,#718096,#a78bfa,#22d3ee,#ffffff
+            dist/github-snake-light.svg?palette=github-light&color_snake=#0077ff&color_dots=#ffffff,#d1d5db,#9ca3af,#6366f1,#0077ff
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
