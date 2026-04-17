@@ -17,7 +17,7 @@
 <div align="center">
 
 <a href="https://swagata.tech">
-  <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/main/portfolio.png" />
+  <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/main/profile.png" />
 </a>
 
 <br><br>
@@ -125,8 +125,8 @@
 ## 🌐 ACCESS
 
 <div align="center">
-  <a href="https://github.com/Cyberclutch146">
-    <img src="https://img.shields.io/badge/ENTER_PROFILE-000000?style=for-the-badge&logo=github&logoColor=00ffff"/>
+  <a href="https://github.com/Cyberclutch146/repositories">
+    <img src="https://img.shields.io/badge/VIEW REPOSITORIES-000000?style=for-the-badge&logo=github&logoColor=00ffff"/>
   </a>
 </div>
 
