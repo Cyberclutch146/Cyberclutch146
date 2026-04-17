@@ -11,19 +11,17 @@
 </p>
 
 ---
-
 ## 🌐 PORTFOLIO
 
 <div align="center">
 
 <a href="https://swagata.tech">
-  <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/main/profile.png" />
+  <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/main/profile.png" width="600"/>
 </a>
 
-<br><br>
+<br>
 
-<b>swagata.tech</b><br>
-<sub>Projects • Skills • Work • Identity</sub>
+<b>swagata.tech</b>
 
 </div>
 
