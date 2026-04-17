@@ -125,7 +125,7 @@
 ## 🌐 ACCESS
 
 <div align="center">
-  <a href="[https://github.com/Cyberclutch146/repositories](https://github.com/Cyberclutch146?tab=repositories)">
+  <a href="https://github.com/Cyberclutch146?tab=repositories">
     <img src="https://img.shields.io/badge/VIEW REPOSITORIES-000000?style=for-the-badge&logo=github&logoColor=00ffff"/>
   </a>
 </div>
