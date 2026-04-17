@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00FFFF,100:0f2027&height=200&section=header&text=CYBERCLUTCH146&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00FFFF,100:0f2027&height=200&section=header&text=SWAGATA.GANGULY&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=2500&color=00FFFF&center=true&vCenter=true&width=700&lines=Swagata+Ganguly;Robotics+%2B+AI+Engineer;Hackathon+Mode+Always+On;Build.+Break.+Dominate." />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=2500&color=00FFFF&center=true&vCenter=true&width=700&lines=Web+%2B+AI+Engineer;Build.+Break.+Dominate." />
 </h3>
 
 <p align="center">
