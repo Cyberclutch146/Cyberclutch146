@@ -45,7 +45,7 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite" /><br>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase,python,git,github" /><br>
-<img src="https://skillicons.dev/icons?i=linux,vscode,arduino" />
+<img src="https://skillicons.dev/icons?i=linux,vscode,arduino,solidity,supabase" />
 
 </td>
 </tr>
