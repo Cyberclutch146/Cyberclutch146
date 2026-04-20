@@ -53,13 +53,6 @@
 
 ---
 
-## ⚡ Currently Building
-
-- Smart Stadium System (Prompt Wars)  
-- AI Fire Spread Prediction  
-
----
-
 ## 📊 Activity & Stats
 
 <p align="center">
