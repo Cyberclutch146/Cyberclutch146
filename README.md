@@ -14,6 +14,9 @@
   <a href="https://swagata.tech">swagata.tech</a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=debayudh07&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+</p>
 ---
 
 ## 🌐 Connect
