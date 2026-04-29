@@ -1,0 +1,103 @@
+<svg width="1000" height="180" viewBox="0 0 1000 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500;700&amp;family=Fira+Code:wght@400&amp;display=swap');
+
+      .bg { fill: #0d1117; }
+      
+      .name { 
+        font-family: 'Quicksand', sans-serif; 
+        font-weight: 700; 
+        font-size: 46px; 
+        fill: #ffffff; 
+        text-anchor: middle;
+        opacity: 0; 
+        animation: fadeUp 1.2s cubic-bezier(0.16, 1, 0.3, 1) forwards; 
+      }
+      
+      .desc { 
+        font-family: 'Fira Code', monospace; 
+        font-weight: 400; 
+        font-size: 16px; 
+        fill: #8b949e; 
+        text-anchor: middle;
+        opacity: 0; 
+        animation: fadeUp 1.2s cubic-bezier(0.16, 1, 0.3, 1) 0.3s forwards; 
+      }
+
+      .accent {
+        fill: none;
+        stroke: #ffffff;
+        stroke-width: 2;
+        stroke-linecap: round;
+        stroke-dasharray: 100;
+        stroke-dashoffset: 100;
+        animation: dash 2s cubic-bezier(0.16, 1, 0.3, 1) 0.6s forwards;
+      }
+
+      @keyframes fadeUp {
+        from { opacity: 0; transform: translateY(15px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+
+      @keyframes dash {
+        to { stroke-dashoffset: 0; }
+      }
+
+      @keyframes float {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-4px); }
+      }
+
+      .scanline {
+        width: 1000px;
+        height: 2px;
+        fill: #ffffff;
+        opacity: 0.1;
+        animation: scan 4s linear infinite;
+      }
+
+      @keyframes scan {
+        0% { transform: translateY(-10px); }
+        100% { transform: translateY(190px); }
+      }
+    </style>
+
+    <clipPath id="header-shape">
+      <path d="M 0 0 L 1000 0 L 1000 130 Q 500 200 0 130 Z" />
+    </clipPath>
+
+    <pattern id="dot-grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <circle cx="15" cy="15" r="1" fill="#ffffff" opacity="0.1" />
+    </pattern>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <g clip-path="url(#header-shape)">
+    <!-- Base Background -->
+    <rect width="1000" height="180" class="bg" />
+    
+    <!-- Tech Grid -->
+    <rect width="1000" height="180" fill="url(#dot-grid)" />
+    
+    <!-- Subtle glow behind text -->
+    <ellipse cx="500" cy="80" rx="200" ry="60" fill="#ffffff" opacity="0.03" filter="url(#glow)" />
+
+    <!-- Animated Scanline -->
+    <rect x="0" y="0" width="1000" height="2" class="scanline" />
+
+    <g style="animation: float 6s ease-in-out infinite;">
+      <text x="500" y="80" class="name">Swagata Ganguly</text>
+      <!-- Small curved accent line under name -->
+      <path d="M 460 95 Q 500 102 540 95" class="accent" filter="url(#glow)"/>
+      <text x="500" y="125" class="desc">Building AI Systems &amp; Real-world Solutions</text>
+    </g>
+  </g>
+</svg>

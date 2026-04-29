@@ -1,0 +1,91 @@
+<svg width="1000" height="120" viewBox="0 0 1000 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500;700&amp;display=swap');
+
+      .bg { fill: #0d1117; }
+      
+      .text { 
+        font-family: 'Quicksand', sans-serif; 
+        font-weight: 700; 
+        font-size: 26px; 
+        fill: #ffffff; 
+        text-anchor: middle;
+        opacity: 0; 
+        animation: fadeUp 1.2s cubic-bezier(0.16, 1, 0.3, 1) 0.5s forwards; 
+      }
+
+      @keyframes fadeUp {
+        from { opacity: 0; transform: translateY(10px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+      
+      @keyframes float {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-3px); }
+      }
+
+      .accent {
+        fill: none;
+        stroke: #ffffff;
+        stroke-width: 2;
+        stroke-linecap: round;
+        stroke-dasharray: 60;
+        stroke-dashoffset: 60;
+        animation: dash 2s cubic-bezier(0.16, 1, 0.3, 1) 1s forwards;
+      }
+
+      @keyframes dash {
+        to { stroke-dashoffset: 0; }
+      }
+      
+      .scanline {
+        width: 1000px;
+        height: 2px;
+        fill: #ffffff;
+        opacity: 0.1;
+        animation: scan 4s linear infinite;
+      }
+
+      @keyframes scan {
+        0% { transform: translateY(-10px); }
+        100% { transform: translateY(130px); }
+      }
+    </style>
+
+    <clipPath id="footer-shape">
+      <path d="M 0 120 L 1000 120 L 1000 30 Q 500 -30 0 30 Z" />
+    </clipPath>
+
+    <pattern id="dot-grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <circle cx="15" cy="15" r="1" fill="#ffffff" opacity="0.1" />
+    </pattern>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <g clip-path="url(#footer-shape)">
+    <!-- Base Background -->
+    <rect width="1000" height="120" class="bg" />
+    
+    <!-- Tech Grid -->
+    <rect width="1000" height="120" fill="url(#dot-grid)" />
+
+    <!-- Subtle glow behind text -->
+    <ellipse cx="500" cy="80" rx="150" ry="40" fill="#ffffff" opacity="0.03" filter="url(#glow)" />
+
+    <!-- Animated Scanline -->
+    <rect x="0" y="0" width="1000" height="2" class="scanline" />
+
+    <g style="animation: float 6s ease-in-out infinite;">
+      <path d="M 475 55 Q 500 50 525 55" class="accent" filter="url(#glow)"/>
+      <text x="500" y="85" class="text">Keep Building</text>
+    </g>
+  </g>
+</svg>

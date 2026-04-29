@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=170&section=header&text=Cyberclutch146&fontSize=40&fontColor=ffffff" />
+  <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/main/header.svg" width="100%" />
 </h1>
 
 <p align="center">
@@ -139,5 +139,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:8A2BE2&height=100&section=footer"/>
+  <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/main/footer.svg" width="100%" />
 </p>
