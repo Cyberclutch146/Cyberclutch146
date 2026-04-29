@@ -1,86 +1,142 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=160&section=header&text=Cyberclutch146&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=170&section=header&text=Cyberclutch146&fontSize=40&fontColor=ffffff" />
 </h1>
 
 <p align="center">
-  <b>SWAGATA GANGULY</b> • Robotics • AI • Systems
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Swagata+Ganguly;Robotics+%7C+AI+%7C+Systems;Building+real-world+solutions" />
 </p>
 
+<!-- CYBER HUD STATS -->
 <p align="center">
-  <code>&lt; Code. Design. Build. Repeat. /&gt;</code>
-</p>
-
-<p align="center">
-  <a href="https://swagata.tech">🌐 swagata.tech</a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Cyberclutch146&label=PROFILE%20VIEWS&color=00ffff&style=flat-square" />
-</p>
-
----
-
-<p align="center">
-  <i>"The impediment to action advances action. What stands in the way becomes the way."</i>
+  <img src="https://img.shields.io/badge/▲%20PORTFOLIO-00FFFF?style=for-the-badge&logo=vercel&logoColor=black"/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Cyberclutch146&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/Cyberclutch146?style=for-the-badge&color=00FFFF&label=FOLLOWERS"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/Cyberclutch146?style=for-the-badge&color=8A2BE2&label=STARS"/>
 </p>
 
 ---
 
-<!-- CYBER PACMAN -->
+<!-- PACMAN -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/output/pacman-contribution-graph.svg" width="95%"/>
+  <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/output/pacman-contribution-graph.svg" width="92%"/>
 </p>
 
 ---
 
-## ⚡ SYSTEM LOOP
-<pre>
-while(alive) {
-  code();
-  learn();
-  build();
-  repeat();
-}
-</pre>
+## 🚀 Featured
+
+<table width="100%">
+<tr>
+
+<td width="55%" valign="top">
+
+### 🌐 Portfolio  
+- AI • Web • Systems  
+- Real-world builds  
+- Clean & scalable  
+
+<br>
+
+<a href="https://swagata.tech">
+  <img src="https://img.shields.io/badge/Visit%20Live-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="45%" align="center">
+
+<a href="https://swagata.tech">
+  <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/main/portfolio.png" width="100%"/>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🧠 TECH MATRIX
+## 📦 Top Repositories
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,nodejs,express,mongodb,postgresql,firebase,python,cpp,java,git,github,docker,linux,arduino,solidity,supabase" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cyberclutch146&repo=Community-management&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cyberclutch146&repo=flux-whiteboard&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </p>
 
 ---
 
-## 📊 SYSTEM ANALYTICS
+## ⚡ Tech Stack
+
+**Languages**  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyberclutch146&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00ffff&line=8A2BE2&point=ffffff" width="90%"/>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts" />
+</p>
+
+**Frontend**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite" />
+</p>
+
+**Backend & DB**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase,supabase" />
+</p>
+
+**DevOps & Tools**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+</p>
+
+**Systems**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,solidity" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Cyberclutch146&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📊 Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyberclutch146&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00ffff&line=8A2BE2&point=ffffff" width="95%"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cyberclutch146&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="140"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cyberclutch146&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="140"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Cyberclutch146&theme=tokyonight&hide_border=true&background=0d1117" height="140"/>
 </p>
 
 ---
 
-## 🌐 CONNECT
+## 🌐 Connect
+
 <p align="center">
-  ✉️ <a href="mailto:blazingswagata@gmail.com">Email</a> •
-  🔗 <a href="https://www.linkedin.com/in/swagata-ganguly-453aa6327">LinkedIn</a> •
-  💬 <a href="https://wa.me/919674415363">WhatsApp</a> •
-  🐙 <a href="https://github.com/Cyberclutch146">GitHub</a>
+  <a href="mailto:blazingswagata@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/swagata-ganguly-453aa6327">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Cyberclutch146">
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  </a>
 </p>
 
 ---
-
-<p align="center">
-  ⚡ INITIALIZATION COMPLETE
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:8A2BE2&height=100&section=footer"/>
