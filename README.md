@@ -1,90 +1,87 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=150&section=header&text=Cyberclutch146&fontSize=34&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=160&section=header&text=Cyberclutch146&fontSize=40&fontColor=ffffff" />
 </h1>
 
 <p align="center">
-  <b>Swagata Ganguly</b> • Robotics • AI • Systems
+  <b>SWAGATA GANGULY</b> • Robotics • AI • Systems
 </p>
 
 <p align="center">
-  Building systems that actually solve real problems.
+  <code>&lt; Code. Design. Build. Repeat. /&gt;</code>
 </p>
 
 <p align="center">
-  <a href="https://swagata.tech">swagata.tech</a>
+  <a href="https://swagata.tech">🌐 swagata.tech</a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Cyberclutch146&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
----
-
-## 🌐 Connect
-
-<p align="center">
-  ✉️ <a href="mailto:blazingswagata@gmail.com">Email</a> &nbsp;&nbsp;
-  🔗 <a href="https://www.linkedin.com/in/swagata-ganguly-453aa6327">LinkedIn</a> &nbsp;&nbsp;
-  💬 <a href="https://wa.me/919674415363">WhatsApp</a> &nbsp;&nbsp;
-  🐙 <a href="https://github.com/Cyberclutch146">GitHub</a>
+  <img src="https://komarev.com/ghpvc/?username=Cyberclutch146&label=PROFILE%20VIEWS&color=00ffff&style=flat-square" />
 </p>
 
 ---
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Portfolio
-
-<a href="https://swagata.tech">
-  <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/main/profile.png" width="560"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚡ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite" /><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase,python,git,github" /><br>
-<img src="https://skillicons.dev/icons?i=linux,vscode,arduino,solidity,supabase" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <i>"The impediment to action advances action. What stands in the way becomes the way."</i>
+</p>
 
 ---
 
-## 📊 Activity & Stats
+<!-- CYBER PACMAN -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/output/pacman-contribution-graph.svg" width="95%"/>
+</p>
 
+---
+
+## ⚡ SYSTEM LOOP
+<pre>
+while(alive) {
+  code();
+  learn();
+  build();
+  repeat();
+}
+</pre>
+
+---
+
+## 🧠 TECH MATRIX
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,nodejs,express,mongodb,postgresql,firebase,python,cpp,java,git,github,docker,linux,arduino,solidity,supabase" />
+</p>
+
+---
+
+## 📊 SYSTEM ANALYTICS
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyberclutch146&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00ffff&line=8A2BE2&point=ffffff" width="90%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cyberclutch146&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="135"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cyberclutch146&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="135"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Cyberclutch146&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cyberclutch146&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="140"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Cyberclutch146&theme=tokyonight&hide_border=true&background=0d1117" height="135"/>
-</p>
-
----
-
-## 🐍 Activity Visual
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/output/github-snake-light.svg">
-    <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/output/github-snake-dark.svg" width="90%">
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=Cyberclutch146&theme=tokyonight&hide_border=true&background=0d1117" height="140"/>
 </p>
 
 ---
 
+## 🌐 CONNECT
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:8A2BE2&height=80&section=footer"/>
+  ✉️ <a href="mailto:blazingswagata@gmail.com">Email</a> •
+  🔗 <a href="https://www.linkedin.com/in/swagata-ganguly-453aa6327">LinkedIn</a> •
+  💬 <a href="https://wa.me/919674415363">WhatsApp</a> •
+  🐙 <a href="https://github.com/Cyberclutch146">GitHub</a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ INITIALIZATION COMPLETE
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:8A2BE2&height=100&section=footer"/>
 </p>
