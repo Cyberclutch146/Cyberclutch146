@@ -1,0 +1,22 @@
+<svg width="1000" height="120" viewBox="0 0 1000 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@700&amp;display=swap');
+      .text { font-family: 'Outfit', sans-serif; font-weight: 700; font-size: 28px; fill: #ffffff; text-anchor: middle; }
+      @keyframes float1 { 0%, 100% { transform: translate(0, 0); } 50% { transform: translate(20px, -10px); } }
+      @keyframes float2 { 0%, 100% { transform: translate(0, 0); } 50% { transform: translate(-20px, 10px); } }
+      .orb1 { animation: float1 10s ease-in-out infinite; }
+      .orb2 { animation: float2 12s ease-in-out infinite; }
+    </style>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="30"/>
+    </filter>
+  </defs>
+  <rect width="1000" height="120" fill="#020617"/>
+  <circle cx="300" cy="60" r="50" fill="#3b82f6" opacity="0.4" filter="url(#blur)" class="orb1"/>
+  <circle cx="700" cy="60" r="50" fill="#8b5cf6" opacity="0.4" filter="url(#blur)" class="orb2"/>
+  
+  <rect width="1000" height="120" fill="rgba(255,255,255,0.03)" style="backdrop-filter: blur(10px);"/>
+  
+  <text x="500" y="70" class="text">Keep Building</text>
+</svg>

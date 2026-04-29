@@ -1,0 +1,19 @@
+<svg width="1000" height="120" viewBox="0 0 1000 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;display=swap');
+      .text { font-family: 'Share Tech Mono', monospace; font-size: 26px; fill: #22c55e; text-anchor: middle; }
+      .drop { font-family: 'Share Tech Mono', monospace; fill: #22c55e; font-size:14px; animation: fall linear infinite; opacity: 0; }
+      @keyframes fall { 0% { transform: translateY(-20px); opacity:1;} 80% { opacity:0.5;} 100% { transform: translateY(150px); opacity:0;} }
+    </style>
+  </defs>
+  <rect width="1000" height="120" fill="#020617"/>
+  <g opacity="0.3">
+    <text x="150" y="0" class="drop" style="animation-duration: 2.2s; animation-delay: 0.1s;">1 0 1</text>
+    <text x="250" y="0" class="drop" style="animation-duration: 2.7s; animation-delay: 0.6s;">0 1 1</text>
+    <text x="750" y="0" class="drop" style="animation-duration: 2.4s; animation-delay: 0.3s;">1 1 0</text>
+    <text x="850" y="0" class="drop" style="animation-duration: 2.9s; animation-delay: 0.9s;">0 0 1</text>
+  </g>
+  <rect width="250" height="60" x="375" y="30" fill="#020617" opacity="0.9" rx="10" stroke="#22c55e" stroke-width="2"/>
+  <text x="500" y="68" class="text">Keep Building</text>
+</svg>

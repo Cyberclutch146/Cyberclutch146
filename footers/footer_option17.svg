@@ -1,0 +1,22 @@
+<svg width="800" height="120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&amp;family=Orbitron:wght@500;700&amp;family=Quicksand:wght@500;700&amp;display=swap');
+      
+      .blob { filter: blur(40px); animation: moveBlob 10s infinite alternate ease-in-out; }
+      .blob1 { fill: rgba(99, 102, 241, 0.4); animation-delay: -2s; }
+      .blob2 { fill: rgba(236, 72, 153, 0.4); animation-delay: -5s; }
+      @keyframes moveBlob { 0% { transform: translate(0, 0) scale(1); } 50% { transform: translate(50px, -20px) scale(1.1); } 100% { transform: translate(-30px, 30px) scale(0.9); } }
+      .glass { fill: rgba(20, 20, 25, 0.6); stroke: rgba(255, 255, 255, 0.1); stroke-width: 1; }
+    
+    </style>
+    
+  </defs>
+  
+      <rect width="100%" height="100%" fill="#09090b" rx="15" />
+      <circle cx="250" cy="50" r="100" class="blob blob1" />
+      <circle cx="550" cy="150" r="120" class="blob blob2" />
+      <rect x="20" y="20" width="760" height="160" rx="15" class="glass" />
+    
+  <text x="400" y="60" font-family="Quicksand" font-size="18" font-weight="500" fill="#8892b0" text-anchor="middle" dominant-baseline="middle" class="footer-text">Let's build the future together</text>
+</svg>

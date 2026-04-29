@@ -1,0 +1,30 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&amp;family=Quicksand:wght@500&amp;display=swap');
+      .blob28 { animation: morph28 10s infinite alternate ease-in-out; transform-origin: center; }
+      .b1 { animation-delay: 0s; }
+      .b2 { animation-delay: -4s; }
+      .b3 { animation-delay: -7s; }
+      @keyframes morph28 {
+        0%   { transform: translate(0,0) scale(1) rotate(0deg); }
+        50%  { transform: translate(30px,-20px) scale(1.15) rotate(20deg); }
+        100% { transform: translate(-20px,10px) scale(0.9) rotate(-10deg); }
+      }
+    </style>
+    <filter id="f28"><feGaussianBlur stdDeviation="20"/></filter>
+    <linearGradient id="bg28" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f0c29"/>
+      <stop offset="50%" stop-color="#302b63"/>
+      <stop offset="100%" stop-color="#24243e"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" fill="url(#bg28)" rx="15"/>
+  <g filter="url(#f28)" opacity="0.9">
+    <ellipse cx="200" cy="80"  rx="130" ry="80" fill="#7c3aed" class="blob28 b1"/>
+    <ellipse cx="600" cy="120" rx="150" ry="90" fill="#db2777" class="blob28 b2"/>
+    <ellipse cx="400" cy="40"  rx="120" ry="70" fill="#0ea5e9" class="blob28 b3"/>
+  </g>
+  <text x="400" y="90"  font-family="Playfair Display" font-size="44" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="middle">Swagata Ganguly</text>
+  <text x="400" y="140" font-family="Quicksand" font-size="19" fill="rgba(255,255,255,0.75)" text-anchor="middle" dominant-baseline="middle">Building AI Systems</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg width="1000" height="120" viewBox="0 0 1000 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Righteous&amp;display=swap');
+      .text { font-family: 'Righteous', cursive; font-size: 30px; fill: url(#grad); text-anchor: middle; filter: drop-shadow(0 0 5px #ec4899); }
+      @keyframes slide { from { transform: translateY(0); } to { transform: translateY(20px); } }
+      .gridline { stroke: #ec4899; stroke-width: 1.5; opacity: 0.4; }
+      .grid-move { animation: slide 2s linear infinite; }
+    </style>
+    <linearGradient id="grad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fbcfe8"/>
+      <stop offset="50%" stop-color="#ec4899"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="120" fill="#0f0c29"/>
+  <g transform="translate(500, 60) scale(1, 0.4)">
+    <g class="grid-move">
+      <line x1="-1000" y1="0" x2="1000" y2="0" class="gridline"/>
+      <line x1="-1000" y1="40" x2="1000" y2="40" class="gridline"/>
+      <line x1="-1000" y1="80" x2="1000" y2="80" class="gridline"/>
+      <line x1="-1000" y1="120" x2="1000" y2="120" class="gridline"/>
+    </g>
+    <line x1="0" y1="0" x2="-800" y2="400" class="gridline"/>
+    <line x1="0" y1="0" x2="-400" y2="400" class="gridline"/>
+    <line x1="0" y1="0" x2="0" y2="400" class="gridline"/>
+    <line x1="0" y1="0" x2="400" y2="400" class="gridline"/>
+    <line x1="0" y1="0" x2="800" y2="400" class="gridline"/>
+  </g>
+  <text x="500" y="65" class="text">KEEP BUILDING</text>
+</svg>

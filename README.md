@@ -1,20 +1,9 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/main/header.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/main/headers/header.svg" width="100%" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Swagata+Ganguly;Robotics+%7C+AI+%7C+Systems;Building+real-world+solutions" />
-</p>
-
-<!-- CYBER HUD STATS -->
-<p align="center">
-  <img src="https://img.shields.io/badge/▲%20PORTFOLIO-00FFFF?style=for-the-badge&logo=vercel&logoColor=black"/>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Cyberclutch146&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Cyberclutch146?style=for-the-badge&color=00FFFF&label=FOLLOWERS"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/Cyberclutch146?style=for-the-badge&color=8A2BE2&label=STARS"/>
+  <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/main/headers/terminal_banner.svg" width="100%" />
 </p>
 
 ---
@@ -139,5 +128,5 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/main/footer.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/main/footers/footer.svg" width="100%" />
 </p>

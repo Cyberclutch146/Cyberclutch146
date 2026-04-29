@@ -1,0 +1,8 @@
+<svg width="800" height="120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>@import url('https://fonts.googleapis.com/css2?family=Fira+Code&amp;family=Orbitron:wght@500&amp;family=Quicksand:wght@500&amp;family=Outfit:wght@400&amp;family=Righteous&amp;family=Share+Tech+Mono&amp;family=Playfair+Display:wght@700&amp;display=swap');</style>
+    <filter id="f28"><feGaussianBlur stdDeviation="15"/></filter>
+  </defs>
+  <rect width="800" height="120" fill="#0f0c29" rx="15"/><ellipse cx="200" cy="60" rx="130" ry="60" fill="#7c3aed" opacity="0.3" filter="url(#f28)"/><ellipse cx="600" cy="70" rx="150" ry="70" fill="#db2777" opacity="0.3" filter="url(#f28)"/>
+  <text x="400" y="60" font-family="Quicksand" font-size="17" fill="rgba(255,255,255,0.7)" text-anchor="middle" dominant-baseline="middle">Let's build the future together</text>
+</svg>

@@ -1,0 +1,39 @@
+<svg width="1000" height="180" viewBox="0 0 1000 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Righteous&amp;family=Fira+Code:wght@400&amp;display=swap');
+      .name { font-family: 'Righteous', cursive; font-size: 52px; fill: url(#grad); text-anchor: middle; filter: drop-shadow(0 0 5px #ec4899); }
+      .desc { font-family: 'Fira Code', monospace; font-size: 14px; fill: #38bdf8; text-anchor: middle; letter-spacing: 2px;}
+      @keyframes slide { from { transform: translateY(0); } to { transform: translateY(20px); } }
+      .gridline { stroke: #ec4899; stroke-width: 1.5; opacity: 0.4; }
+      .grid-move { animation: slide 2s linear infinite; }
+    </style>
+    <linearGradient id="grad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fbcfe8"/>
+      <stop offset="50%" stop-color="#ec4899"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="180" fill="#0f0c29"/>
+  <!-- Perspective Grid Simulation -->
+  <g transform="translate(500, 100) scale(1, 0.4)">
+    <g class="grid-move">
+      <line x1="-1000" y1="0" x2="1000" y2="0" class="gridline"/>
+      <line x1="-1000" y1="40" x2="1000" y2="40" class="gridline"/>
+      <line x1="-1000" y1="80" x2="1000" y2="80" class="gridline"/>
+      <line x1="-1000" y1="120" x2="1000" y2="120" class="gridline"/>
+      <line x1="-1000" y1="160" x2="1000" y2="160" class="gridline"/>
+      <line x1="-1000" y1="200" x2="1000" y2="200" class="gridline"/>
+    </g>
+    <!-- Radiating Lines -->
+    <line x1="0" y1="0" x2="-800" y2="400" class="gridline"/>
+    <line x1="0" y1="0" x2="-400" y2="400" class="gridline"/>
+    <line x1="0" y1="0" x2="0" y2="400" class="gridline"/>
+    <line x1="0" y1="0" x2="400" y2="400" class="gridline"/>
+    <line x1="0" y1="0" x2="800" y2="400" class="gridline"/>
+  </g>
+  <!-- Sun -->
+  <circle cx="500" cy="100" r="40" fill="url(#grad)"/>
+  <text x="500" y="80" class="name">SWAGATA GANGULY</text>
+  <text x="500" y="150" class="desc">BUILDING AI SYSTEMS</text>
+</svg>

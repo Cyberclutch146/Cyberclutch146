@@ -1,0 +1,32 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&amp;family=Fira+Code&amp;display=swap');
+      .ring { fill: none; stroke-width: 1; animation: spin33 15s linear infinite; transform-box: fill-box; transform-origin: center; }
+      .r1 { stroke: #38bdf8; animation-duration: 12s; }
+      .r2 { stroke: #f472b6; animation-duration: 18s; animation-direction: reverse; }
+      .r3 { stroke: #a3e635; animation-duration: 25s; }
+      @keyframes spin33 { to { transform: rotate(360deg); } }
+      .dot33 { fill: #fff; }
+    </style>
+    <linearGradient id="bg33" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="100%" stop-color="#0f0a1e"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" fill="url(#bg33)" rx="15"/>
+  <g transform="translate(110,100)">
+    <ellipse rx="70" ry="25" class="ring r1"/>
+    <ellipse rx="70" ry="25" transform="rotate(60)" class="ring r2"/>
+    <ellipse rx="70" ry="25" transform="rotate(120)" class="ring r3"/>
+    <circle r="5" class="dot33"/>
+  </g>
+  <g transform="translate(690,100)">
+    <ellipse rx="60" ry="22" class="ring r2"/>
+    <ellipse rx="60" ry="22" transform="rotate(60)" class="ring r3"/>
+    <ellipse rx="60" ry="22" transform="rotate(120)" class="ring r1"/>
+    <circle r="4" class="dot33"/>
+  </g>
+  <text x="400" y="90"  font-family="Orbitron" font-size="40" font-weight="700" fill="#f1f5f9" text-anchor="middle" dominant-baseline="middle">Swagata Ganguly</text>
+  <text x="400" y="140" font-family="Fira Code" font-size="18" fill="#38bdf8" text-anchor="middle" dominant-baseline="middle">Building AI Systems</text>
+</svg>

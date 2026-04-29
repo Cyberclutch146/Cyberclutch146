@@ -1,0 +1,20 @@
+<svg width="1000" height="180" viewBox="0 0 1000 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&amp;display=swap');
+      .name { font-family: 'Orbitron', sans-serif; font-size: 46px; fill: #fff; text-anchor: middle; animation: pulse 2s infinite alternate;}
+      .desc { font-family: 'Orbitron', sans-serif; font-size: 14px; fill: #fbbf24; text-anchor: middle; }
+      @keyframes pulse { 0% { text-shadow: 0 0 10px #fbbf24; } 100% { text-shadow: 0 0 20px #fbbf24, 0 0 30px #f59e0b; } }
+      @keyframes hex { 0% { stroke-opacity: 0.1; } 50% { stroke-opacity: 0.8; } 100% { stroke-opacity: 0.1; } }
+      .hex { animation: hex 4s infinite; }
+    </style>
+    <pattern id="hex-grid" width="28" height="48" patternUnits="userSpaceOnUse" patternTransform="scale(1.5)">
+      <path d="M14 0 L28 8 L28 24 L14 32 L0 24 L0 8 Z" fill="none" stroke="#fbbf24" stroke-width="1" class="hex" style="animation-delay: 0s;"/>
+      <path d="M28 24 L42 32 L42 48 L28 56 L14 48 L14 32 Z" fill="none" stroke="#f59e0b" stroke-width="1" class="hex" style="animation-delay: 2s;"/>
+    </pattern>
+  </defs>
+  <rect width="1000" height="180" fill="#0f172a"/>
+  <rect width="1000" height="180" fill="url(#hex-grid)" opacity="0.3"/>
+  <text x="500" y="90" class="name">Swagata Ganguly</text>
+  <text x="500" y="130" class="desc">Building AI Systems &amp; Real-world Solutions</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700;500&amp;display=swap');
+      .glitch-text { animation: glitch35 3s infinite; }
+      @keyframes glitch35 {
+        0%,90%,100% { clip-path: none; transform: translate(0); }
+        92% { clip-path: polygon(0 20%, 100% 20%, 100% 40%, 0 40%); transform: translate(-3px, 0); fill: #f0f; }
+        94% { clip-path: polygon(0 60%, 100% 60%, 100% 80%, 0 80%); transform: translate(3px, 0); fill: #0ff; }
+        96% { clip-path: none; transform: translate(0); fill: #fff; }
+      }
+      .corner { fill: none; stroke-width: 3; }
+    </style>
+    <linearGradient id="bg35" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d0d0d"/>
+      <stop offset="100%" stop-color="#1a1a2e"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" fill="url(#bg35)" rx="15"/>
+  <!-- corner brackets -->
+  <path d="M 30 30 L 30 10 L 60 10" class="corner" stroke="#ff00ff"/>
+  <path d="M 770 30 L 770 10 L 740 10" class="corner" stroke="#ff00ff"/>
+  <path d="M 30 170 L 30 190 L 60 190" class="corner" stroke="#00ffff"/>
+  <path d="M 770 170 L 770 190 L 740 190" class="corner" stroke="#00ffff"/>
+  <text x="400" y="90" font-family="Quicksand" font-size="44" font-weight="700" fill="#fff" text-anchor="middle" dominant-baseline="middle" class="glitch-text">Swagata Ganguly</text>
+  <text x="400" y="140" font-family="Quicksand" font-size="19" fill="#a0aec0" text-anchor="middle" dominant-baseline="middle">Building AI Systems</text>
+</svg>

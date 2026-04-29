@@ -1,0 +1,29 @@
+<svg width="800" height="120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&amp;family=Orbitron:wght@500;700&amp;family=Quicksand:wght@500;700&amp;display=swap');
+      
+      .grid { stroke: #ff007f; stroke-width: 1.5; opacity: 0.4; }
+      .horizon { stroke: #00ffff; stroke-width: 3; filter: drop-shadow(0 0 5px #00ffff); }
+      .sun { fill: url(#sunGrad); }
+      @keyframes scroll { 0% { transform: translateY(0); } 100% { transform: translateY(20px); } }
+    
+    </style>
+    
+      <linearGradient id="bg80s" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#1a0033"/><stop offset="100%" stop-color="#00001a"/></linearGradient>
+      <linearGradient id="sunGrad" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ffcc00"/><stop offset="100%" stop-color="#ff007f"/></linearGradient>
+      <pattern id="gridPattern" width="40" height="20" patternUnits="userSpaceOnUse" patternTransform="rotate(0)">
+        <path d="M 40 0 L 0 0 0 20" fill="none" class="grid"/>
+      </pattern>
+    
+  </defs>
+  
+      <rect width="100%" height="100%" fill="url(#bg80s)" rx="15" />
+      <circle cx="400" cy="120" r="60" class="sun" />
+      <g transform="translate(0, 120)">
+        <rect width="800" height="80" fill="url(#gridPattern)" />
+      </g>
+      <line x1="0" y1="120" x2="800" y2="120" class="horizon" />
+    
+  <text x="400" y="60" font-family="Orbitron" font-size="18" font-weight="500" fill="#fff" text-anchor="middle" dominant-baseline="middle" class="footer-text">Let's build the future together</text>
+</svg>

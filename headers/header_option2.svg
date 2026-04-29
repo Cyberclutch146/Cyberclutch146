@@ -1,0 +1,72 @@
+<svg width="1000" height="180" viewBox="0 0 1000 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500;700&amp;family=Fira+Code:wght@400&amp;display=swap');
+
+      .bg { fill: #050505; }
+      
+      .name { 
+        font-family: 'Quicksand', sans-serif; 
+        font-weight: 700; 
+        font-size: 46px; 
+        fill: #ffffff; 
+        text-anchor: middle;
+        opacity: 0; 
+        animation: fadeUp 1.2s cubic-bezier(0.16, 1, 0.3, 1) forwards; 
+      }
+      
+      .desc { 
+        font-family: 'Fira Code', monospace; 
+        font-weight: 400; 
+        font-size: 16px; 
+        fill: #8b949e; 
+        text-anchor: middle;
+        opacity: 0; 
+        animation: fadeUp 1.2s cubic-bezier(0.16, 1, 0.3, 1) 0.3s forwards; 
+      }
+
+      @keyframes fadeUp {
+        from { opacity: 0; transform: translateY(15px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+
+      @keyframes wave {
+        0% { transform: translateX(0); }
+        100% { transform: translateX(-1000px); }
+      }
+
+      .wave1 { animation: wave 15s linear infinite; }
+      .wave2 { animation: wave 20s linear infinite; }
+      .wave3 { animation: wave 25s linear infinite; }
+      
+      @keyframes float {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-4px); }
+      }
+    </style>
+
+    <clipPath id="header-shape">
+      <path d="M 0 0 L 1000 0 L 1000 130 Q 500 200 0 130 Z" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#header-shape)">
+    <!-- Base Background -->
+    <rect width="1000" height="180" class="bg" />
+    
+    <!-- Animated Waves -->
+    <g opacity="0.3">
+      <!-- Wave 1 (Cyan) -->
+      <path class="wave1" fill="none" stroke="#00FFFF" stroke-width="2" d="M 0 160 Q 250 120 500 160 T 1000 160 T 1500 160 T 2000 160" />
+      <!-- Wave 2 (Purple) -->
+      <path class="wave2" fill="none" stroke="#8A2BE2" stroke-width="2" d="M 0 170 Q 250 190 500 170 T 1000 170 T 1500 170 T 2000 170" />
+      <!-- Wave 3 (White) -->
+      <path class="wave3" fill="none" stroke="#ffffff" stroke-width="1" d="M 0 150 Q 250 170 500 150 T 1000 150 T 1500 150 T 2000 150" />
+    </g>
+
+    <g style="animation: float 6s ease-in-out infinite;">
+      <text x="500" y="80" class="name">Swagata Ganguly</text>
+      <text x="500" y="125" class="desc">Building AI Systems &amp; Real-world Solutions</text>
+    </g>
+  </g>
+</svg>

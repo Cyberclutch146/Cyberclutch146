@@ -1,0 +1,8 @@
+<svg width="800" height="120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>@import url('https://fonts.googleapis.com/css2?family=Fira+Code&amp;family=Orbitron:wght@500&amp;family=Quicksand:wght@500&amp;family=Outfit:wght@400&amp;family=Righteous&amp;family=Share+Tech+Mono&amp;family=Playfair+Display:wght@700&amp;display=swap');</style>
+    
+  </defs>
+  <rect width="800" height="120" fill="#1c1917" rx="15"/><line x1="0" y1="60" x2="800" y2="60" stroke="#f59e0b" stroke-width="1.5" opacity="0.8"/>
+  <text x="400" y="60" font-family="Righteous" font-size="17" fill="#f59e0b" text-anchor="middle" dominant-baseline="middle">Let's build the future together</text>
+</svg>

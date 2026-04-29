@@ -1,0 +1,61 @@
+<svg width="1000" height="120" viewBox="0 0 1000 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500;700&amp;display=swap');
+
+      .bg { fill: #050505; }
+      
+      .text { 
+        font-family: 'Quicksand', sans-serif; 
+        font-weight: 700; 
+        font-size: 26px; 
+        fill: #ffffff; 
+        text-anchor: middle;
+        opacity: 0; 
+        animation: fadeUp 1.2s cubic-bezier(0.16, 1, 0.3, 1) 0.5s forwards; 
+      }
+
+      @keyframes fadeUp {
+        from { opacity: 0; transform: translateY(10px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+      
+      @keyframes float {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-3px); }
+      }
+
+      @keyframes wave {
+        0% { transform: translateX(0); }
+        100% { transform: translateX(-1000px); }
+      }
+
+      .wave1 { animation: wave 15s linear infinite reverse; }
+      .wave2 { animation: wave 20s linear infinite reverse; }
+      .wave3 { animation: wave 25s linear infinite reverse; }
+    </style>
+
+    <clipPath id="footer-shape">
+      <path d="M 0 120 L 1000 120 L 1000 30 Q 500 -30 0 30 Z" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#footer-shape)">
+    <!-- Base Background -->
+    <rect width="1000" height="120" class="bg" />
+    
+    <!-- Animated Waves -->
+    <g opacity="0.3">
+      <!-- Wave 1 (Cyan) -->
+      <path class="wave1" fill="none" stroke="#00FFFF" stroke-width="2" d="M 0 20 Q 250 -20 500 20 T 1000 20 T 1500 20 T 2000 20" />
+      <!-- Wave 2 (Purple) -->
+      <path class="wave2" fill="none" stroke="#8A2BE2" stroke-width="2" d="M 0 10 Q 250 30 500 10 T 1000 10 T 1500 10 T 2000 10" />
+      <!-- Wave 3 (White) -->
+      <path class="wave3" fill="none" stroke="#ffffff" stroke-width="1" d="M 0 30 Q 250 10 500 30 T 1000 30 T 1500 30 T 2000 30" />
+    </g>
+
+    <g style="animation: float 6s ease-in-out infinite;">
+      <text x="500" y="85" class="text">Keep Building</text>
+    </g>
+  </g>
+</svg>

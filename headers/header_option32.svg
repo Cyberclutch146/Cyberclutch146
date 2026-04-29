@@ -1,0 +1,17 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Righteous&amp;family=Quicksand:wght@500&amp;display=swap');
+      .glow-line { animation: glowPulse 3s ease-in-out infinite alternate; }
+      @keyframes glowPulse { 0% { filter: drop-shadow(0 0 4px #f59e0b); opacity: 0.7; } 100% { filter: drop-shadow(0 0 12px #f59e0b); opacity: 1; } }
+    </style>
+    <linearGradient id="top32" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1c1917"/>
+      <stop offset="100%" stop-color="#0c0a08"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" fill="url(#top32)" rx="15"/>
+  <line x1="0" y1="120" x2="800" y2="120" stroke="#f59e0b" stroke-width="2" class="glow-line"/>
+  <text x="400" y="80"  font-family="Righteous" font-size="48" fill="#fafaf9" text-anchor="middle" dominant-baseline="middle">Swagata Ganguly</text>
+  <text x="400" y="148" font-family="Quicksand" font-size="18" fill="#f59e0b" text-anchor="middle" dominant-baseline="middle">Building AI Systems</text>
+</svg>

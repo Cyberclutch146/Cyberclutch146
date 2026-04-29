@@ -1,0 +1,38 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500;700&amp;family=Fira+Code:wght@400&amp;display=swap');
+      .curtain { opacity: 0.55; animation: aurora 8s infinite ease-in-out alternate; transform-origin: top center; }
+      .c1 { animation-delay: 0s; }
+      .c2 { animation-delay: -2s; }
+      .c3 { animation-delay: -4s; }
+      @keyframes aurora {
+        0%   { transform: skewX(-5deg) scaleY(0.9); opacity: 0.4; }
+        50%  { transform: skewX(5deg) scaleY(1.1); opacity: 0.7; }
+        100% { transform: skewX(-3deg) scaleY(0.95); opacity: 0.5; }
+      }
+    </style>
+    <linearGradient id="a1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00ff87" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#00ff87" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="a2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00cfff" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#00cfff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="a3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="sky" cx="50%" cy="0%" r="100%">
+      <stop offset="0%" stop-color="#0b1e2d"/>
+      <stop offset="100%" stop-color="#030910"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="200" fill="url(#sky)" rx="15"/>
+  <rect x="0"   y="0" width="220" height="200" fill="url(#a1)" class="curtain c1"/>
+  <rect x="200" y="0" width="260" height="200" fill="url(#a2)" class="curtain c2"/>
+  <rect x="430" y="0" width="370" height="200" fill="url(#a3)" class="curtain c3"/>
+  <text x="400" y="90" font-family="Quicksand" font-size="44" font-weight="700" fill="#e0fff4" text-anchor="middle" dominant-baseline="middle">Swagata Ganguly</text>
+  <text x="400" y="140" font-family="Fira Code" font-size="19" font-weight="400" fill="#00cfff" text-anchor="middle" dominant-baseline="middle">Building AI Systems</text>
+</svg>

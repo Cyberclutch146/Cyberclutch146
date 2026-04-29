@@ -1,0 +1,30 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&amp;family=Fira+Code&amp;display=swap');
+      .bar36 { animation: rise36 2s ease-out infinite alternate; transform-origin: bottom; }
+      @keyframes rise36 { 0% { transform: scaleY(0.3); opacity: 0.4; } 100% { transform: scaleY(1); opacity: 0.9; } }
+    </style>
+    <linearGradient id="bg36" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0a12"/>
+      <stop offset="100%" stop-color="#14141f"/>
+    </linearGradient>
+    <linearGradient id="barGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#312e81"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" fill="url(#bg36)" rx="15"/>
+  <!-- EQ bars left -->
+  <rect x="30" y="120" width="12" height="80" fill="url(#barGrad)" rx="3" class="bar36" style="animation-delay:0s"/>
+  <rect x="48" y="120" width="12" height="80" fill="url(#barGrad)" rx="3" class="bar36" style="animation-delay:-0.3s"/>
+  <rect x="66" y="120" width="12" height="80" fill="url(#barGrad)" rx="3" class="bar36" style="animation-delay:-0.6s"/>
+  <rect x="84" y="120" width="12" height="80" fill="url(#barGrad)" rx="3" class="bar36" style="animation-delay:-0.9s"/>
+  <!-- EQ bars right -->
+  <rect x="694" y="120" width="12" height="80" fill="url(#barGrad)" rx="3" class="bar36" style="animation-delay:-1.2s"/>
+  <rect x="712" y="120" width="12" height="80" fill="url(#barGrad)" rx="3" class="bar36" style="animation-delay:-0.5s"/>
+  <rect x="730" y="120" width="12" height="80" fill="url(#barGrad)" rx="3" class="bar36" style="animation-delay:-0.8s"/>
+  <rect x="748" y="120" width="12" height="80" fill="url(#barGrad)" rx="3" class="bar36" style="animation-delay:-0.2s"/>
+  <text x="400" y="90"  font-family="Orbitron" font-size="40" font-weight="500" fill="#f1f5f9" text-anchor="middle" dominant-baseline="middle">Swagata Ganguly</text>
+  <text x="400" y="140" font-family="Fira Code" font-size="17" fill="#818cf8" text-anchor="middle" dominant-baseline="middle">Building AI Systems</text>
+</svg>

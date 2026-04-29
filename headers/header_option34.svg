@@ -1,0 +1,31 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@700;300&amp;display=swap');
+      .stripe { animation: slideStripe 4s linear infinite; }
+      .s1 { animation-delay: 0s; }
+      .s2 { animation-delay: -1s; }
+      .s3 { animation-delay: -2s; }
+      .s4 { animation-delay: -3s; }
+      @keyframes slideStripe { 0% { transform: translateX(-800px); } 100% { transform: translateX(800px); } }
+    </style>
+    <linearGradient id="bg34" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="100%" stop-color="#111"/>
+    </linearGradient>
+    <linearGradient id="stripe34" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="transparent"/>
+      <stop offset="50%" stop-color="rgba(255,255,255,0.05)"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" fill="url(#bg34)" rx="15"/>
+  <rect y="0"   width="800" height="50" fill="url(#stripe34)" class="stripe s1"/>
+  <rect y="50"  width="800" height="50" fill="url(#stripe34)" class="stripe s2"/>
+  <rect y="100" width="800" height="50" fill="url(#stripe34)" class="stripe s3"/>
+  <rect y="150" width="800" height="50" fill="url(#stripe34)" class="stripe s4"/>
+  <!-- accent bar -->
+  <rect x="100" y="72" width="4" height="60" fill="#6366f1" rx="2"/>
+  <text x="120" y="90"  font-family="Outfit" font-size="46" font-weight="700" fill="#fff" dominant-baseline="middle">Swagata Ganguly</text>
+  <text x="120" y="138" font-family="Outfit" font-size="18" font-weight="300" fill="#6366f1" dominant-baseline="middle">Building AI Systems</text>
+</svg>

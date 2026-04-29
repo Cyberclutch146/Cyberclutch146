@@ -1,0 +1,16 @@
+<svg width="1000" height="180" viewBox="0 0 1000 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&amp;display=swap');
+      .name { font-family: 'Orbitron', sans-serif; font-size: 40px; fill: #fff; text-anchor: middle; text-shadow: 0 0 10px #0ea5e9;}
+      .desc { font-family: 'Orbitron', sans-serif; font-size: 14px; fill: #bae6fd; text-anchor: middle; }
+      @keyframes dash { to { stroke-dashoffset: 0; } }
+      .line { fill: none; stroke: #0ea5e9; stroke-width: 2; stroke-dasharray: 500; stroke-dashoffset: 500; animation: dash 3s ease-in-out infinite alternate; }
+    </style>
+  </defs>
+  <rect width="1000" height="180" fill="#020617"/>
+  <path d="M 100 90 L 300 90 L 350 40 L 650 40 L 700 90 L 900 90" class="line" opacity="0.3"/>
+  <path d="M 100 140 L 250 140 L 300 160 L 700 160 L 750 140 L 900 140" class="line" opacity="0.2" stroke="#38bdf8"/>
+  <text x="500" y="95" class="name">Swagata Ganguly</text>
+  <text x="500" y="130" class="desc">Building AI Systems &amp; Real-world Solutions</text>
+</svg>

@@ -1,0 +1,63 @@
+<svg width="1000" height="180" viewBox="0 0 1000 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@500;700&amp;display=swap');
+
+      .bg { fill: #000000; }
+      
+      .name { 
+        font-family: 'Fira Code', monospace; 
+        font-weight: 700; 
+        font-size: 46px; 
+        fill: #ffffff; 
+        text-anchor: middle;
+      }
+      
+      .desc { 
+        font-family: 'Fira Code', monospace; 
+        font-weight: 500; 
+        font-size: 16px; 
+        fill: #4ade80; 
+        text-anchor: middle;
+      }
+
+      /* Glitch effect for name */
+      .glitch1 { animation: glitch-anim-1 2s infinite linear alternate-reverse; fill: #0ff; opacity: 0.8;}
+      .glitch2 { animation: glitch-anim-2 3s infinite linear alternate-reverse; fill: #f0f; opacity: 0.8;}
+
+      @keyframes glitch-anim-1 {
+        0% { clip-path: inset(20% 0 80% 0); transform: translate(-2px, 1px); }
+        20% { clip-path: inset(60% 0 10% 0); transform: translate(2px, -1px); }
+        40% { clip-path: inset(40% 0 50% 0); transform: translate(-2px, 2px); }
+        60% { clip-path: inset(80% 0 5% 0); transform: translate(2px, -2px); }
+        80% { clip-path: inset(10% 0 70% 0); transform: translate(-1px, 1px); }
+        100% { clip-path: inset(30% 0 50% 0); transform: translate(1px, -1px); }
+      }
+
+      @keyframes glitch-anim-2 {
+        0% { clip-path: inset(10% 0 60% 0); transform: translate(2px, -1px); }
+        20% { clip-path: inset(30% 0 20% 0); transform: translate(-2px, 1px); }
+        40% { clip-path: inset(70% 0 10% 0); transform: translate(2px, -2px); }
+        60% { clip-path: inset(20% 0 50% 0); transform: translate(-2px, 2px); }
+        80% { clip-path: inset(50% 0 30% 0); transform: translate(1px, -1px); }
+        100% { clip-path: inset(5% 0 80% 0); transform: translate(-1px, 1px); }
+      }
+      
+      .border {
+        fill: none;
+        stroke: #1e293b;
+        stroke-width: 2;
+      }
+    </style>
+  </defs>
+
+  <rect width="996" height="176" x="2" y="2" rx="10" class="bg border" />
+  
+  <g transform="translate(500, 80)">
+    <text x="0" y="0" class="name glitch1">Swagata Ganguly</text>
+    <text x="0" y="0" class="name glitch2">Swagata Ganguly</text>
+    <text x="0" y="0" class="name">Swagata Ganguly</text>
+    
+    <text x="0" y="45" class="desc">Building AI Systems &amp; Real-world Solutions</text>
+  </g>
+</svg>

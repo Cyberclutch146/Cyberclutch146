@@ -1,0 +1,38 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600&amp;family=Quicksand:wght@500&amp;display=swap');
+      .dot { fill: #38bdf8; animation: drift 6s infinite ease-in-out alternate; }
+      .dot:nth-child(2n) { fill: #818cf8; animation-duration: 8s; animation-delay: -3s; }
+      .dot:nth-child(3n) { fill: #34d399; animation-duration: 5s; animation-delay: -1s; }
+      .link { stroke: #38bdf8; stroke-width: 0.6; opacity: 0.25; }
+      @keyframes drift {
+        0%   { transform: translate(0,0); }
+        100% { transform: translate(6px,-8px); }
+      }
+    </style>
+    <linearGradient id="bg25" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" fill="url(#bg25)" rx="15"/>
+  <!-- links -->
+  <line x1="80"  y1="40"  x2="200" y2="80"  class="link"/>
+  <line x1="200" y1="80"  x2="340" y2="30"  class="link"/>
+  <line x1="340" y1="30"  x2="560" y2="170" class="link"/>
+  <line x1="560" y1="170" x2="700" y2="60"  class="link"/>
+  <line x1="700" y1="60"  x2="750" y2="160" class="link"/>
+  <line x1="80"  y1="40"  x2="340" y2="30"  class="link"/>
+  <!-- dots -->
+  <circle cx="80"  cy="40"  r="3.5" class="dot"/>
+  <circle cx="200" cy="80"  r="2.5" class="dot"/>
+  <circle cx="340" cy="30"  r="4"   class="dot"/>
+  <circle cx="560" cy="170" r="3"   class="dot"/>
+  <circle cx="700" cy="60"  r="3.5" class="dot"/>
+  <circle cx="750" cy="160" r="2"   class="dot"/>
+  <circle cx="150" cy="160" r="2.5" class="dot"/>
+  <circle cx="450" cy="50"  r="3"   class="dot"/>
+  <text x="400" y="90" font-family="Orbitron" font-size="40" font-weight="600" fill="#f1f5f9" text-anchor="middle" dominant-baseline="middle">Swagata Ganguly</text>
+  <text x="400" y="140" font-family="Quicksand" font-size="19" fill="#818cf8" text-anchor="middle" dominant-baseline="middle">Building AI Systems</text>
+</svg>

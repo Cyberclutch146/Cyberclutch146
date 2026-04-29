@@ -1,0 +1,35 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;display=swap');
+      .rain { animation: fall linear infinite; transform-origin: top; }
+      @keyframes fall {
+        0%   { transform: translateY(-200px); opacity: 0; }
+        10%  { opacity: 1; }
+        90%  { opacity: 0.8; }
+        100% { transform: translateY(250px); opacity: 0; }
+      }
+    </style>
+    <linearGradient id="bg26" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#020c1b"/>
+      <stop offset="100%" stop-color="#001a33"/>
+    </linearGradient>
+    <filter id="glow26">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="800" height="200" fill="url(#bg26)" rx="15"/>
+  <g filter="url(#glow26)" opacity="0.7">
+    <line x1="60"  y1="0" x2="60"  y2="30" stroke="#00ffff" stroke-width="1.5" class="rain" style="animation-duration:2.1s;animation-delay:-0.5s"/>
+    <line x1="130" y1="0" x2="130" y2="45" stroke="#00ffff" stroke-width="1"   class="rain" style="animation-duration:1.8s;animation-delay:-1.2s"/>
+    <line x1="220" y1="0" x2="220" y2="25" stroke="#00ff87" stroke-width="1.5" class="rain" style="animation-duration:2.4s;animation-delay:-0.3s"/>
+    <line x1="310" y1="0" x2="310" y2="55" stroke="#00ffff" stroke-width="2"   class="rain" style="animation-duration:1.6s;animation-delay:-0.9s"/>
+    <line x1="490" y1="0" x2="490" y2="35" stroke="#00ff87" stroke-width="1.5" class="rain" style="animation-duration:2.2s;animation-delay:-1.5s"/>
+    <line x1="580" y1="0" x2="580" y2="20" stroke="#00ffff" stroke-width="1"   class="rain" style="animation-duration:1.9s;animation-delay:-0.2s"/>
+    <line x1="660" y1="0" x2="660" y2="50" stroke="#00ff87" stroke-width="2"   class="rain" style="animation-duration:2.3s;animation-delay:-0.7s"/>
+    <line x1="740" y1="0" x2="740" y2="40" stroke="#00ffff" stroke-width="1.5" class="rain" style="animation-duration:1.7s;animation-delay:-1.1s"/>
+  </g>
+  <text x="400" y="90" font-family="Share Tech Mono" font-size="42" fill="#00ffff" text-anchor="middle" dominant-baseline="middle" filter="url(#glow26)">Swagata Ganguly</text>
+  <text x="400" y="140" font-family="Share Tech Mono" font-size="18" fill="#00ff87" text-anchor="middle" dominant-baseline="middle">Building AI Systems</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg width="1000" height="180" viewBox="0 0 1000 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700&amp;display=swap');
+      .name { font-family: 'Quicksand', sans-serif; font-weight: 700; font-size: 50px; fill: #ffffff; text-anchor: middle; mix-blend-mode: overlay; }
+      .desc { font-family: 'Quicksand', sans-serif; font-weight: 700; font-size: 16px; fill: #ffffff; text-anchor: middle; mix-blend-mode: overlay; }
+      @keyframes move1 { 0% { transform: translate(0, 0) scale(1); } 50% { transform: translate(50px, 20px) scale(1.2); } 100% { transform: translate(0, 0) scale(1); } }
+      @keyframes move2 { 0% { transform: translate(0, 0) scale(1.2); } 50% { transform: translate(-50px, -20px) scale(1); } 100% { transform: translate(0, 0) scale(1.2); } }
+      .blob1 { animation: move1 8s infinite alternate; }
+      .blob2 { animation: move2 10s infinite alternate; }
+    </style>
+    <filter id="liquid" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="25" result="blur" />
+      <feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 20 -10" result="liquid" />
+      <feBlend in="SourceGraphic" in2="liquid" />
+    </filter>
+  </defs>
+  <rect width="1000" height="180" fill="#1e1b4b"/>
+  <g filter="url(#liquid)">
+    <circle cx="400" cy="90" r="80" fill="#ec4899" class="blob1"/>
+    <circle cx="600" cy="90" r="90" fill="#3b82f6" class="blob2"/>
+    <circle cx="500" cy="90" r="100" fill="#8b5cf6" class="blob1"/>
+  </g>
+  <text x="500" y="95" class="name">Swagata Ganguly</text>
+  <text x="500" y="130" class="desc">Building AI Systems &amp; Real-world Solutions</text>
+</svg>

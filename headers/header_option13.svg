@@ -1,0 +1,15 @@
+<svg width="1000" height="180" viewBox="0 0 1000 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&amp;family=Lato:wght@300&amp;display=swap');
+      .name { font-family: 'Playfair Display', serif; font-size: 46px; fill: #1e293b; text-anchor: middle; }
+      .desc { font-family: 'Lato', sans-serif; font-size: 16px; fill: #64748b; text-anchor: middle; letter-spacing: 3px; text-transform: uppercase;}
+      .line { stroke: #cbd5e1; stroke-width: 1; }
+    </style>
+  </defs>
+  <rect width="1000" height="180" fill="#ffffff"/>
+  <line x1="200" y1="30" x2="800" y2="30" class="line"/>
+  <line x1="200" y1="150" x2="800" y2="150" class="line"/>
+  <text x="500" y="95" class="name">SWAGATA GANGULY</text>
+  <text x="500" y="130" class="desc">Building AI Systems &amp; Real-world Solutions</text>
+</svg>

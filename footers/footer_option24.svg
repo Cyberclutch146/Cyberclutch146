@@ -1,0 +1,8 @@
+<svg width="800" height="120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>@import url('https://fonts.googleapis.com/css2?family=Fira+Code&amp;family=Orbitron:wght@500&amp;family=Quicksand:wght@500&amp;family=Outfit:wght@400&amp;family=Righteous&amp;family=Share+Tech+Mono&amp;family=Playfair+Display:wght@700&amp;display=swap');</style>
+    <linearGradient id="a1" x1="0" y1="1" x2="0" y2="0"><stop offset="0%" stop-color="#00ff87" stop-opacity="0.6"/><stop offset="100%" stop-color="#00ff87" stop-opacity="0"/></linearGradient><linearGradient id="a2" x1="0" y1="1" x2="0" y2="0"><stop offset="0%" stop-color="#00cfff" stop-opacity="0.5"/><stop offset="100%" stop-color="#00cfff" stop-opacity="0"/></linearGradient><linearGradient id="a3" x1="0" y1="1" x2="0" y2="0"><stop offset="0%" stop-color="#a855f7" stop-opacity="0.4"/><stop offset="100%" stop-color="#a855f7" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="800" height="120" fill="#030910" rx="15"/><rect x="0" y="0" width="220" height="120" fill="url(#a1)" opacity="0.5"/><rect x="200" y="0" width="260" height="120" fill="url(#a2)" opacity="0.4"/><rect x="430" y="0" width="370" height="120" fill="url(#a3)" opacity="0.45"/>
+  <text x="400" y="60" font-family="Quicksand" font-size="17" fill="#00cfff" text-anchor="middle" dominant-baseline="middle">Let's build the future together</text>
+</svg>
