@@ -14,39 +14,41 @@
 </p>
 
 ---
-
 ## 🚀 Featured
 
-<table width="100%">
+<table>
 <tr>
+<td width="50%" valign="middle">
 
-<td width="55%" valign="top">
+### 🌐 Portfolio
 
-### 🌐 Portfolio  
-- AI • Web • Systems  
-- Real-world builds  
-- Clean & scalable  
-
+**Clean.Scalable.Fast.<br>Real-world builds.**
 <br>
 
 <a href="https://swagata.tech">
-  <img src="https://img.shields.io/badge/Visit%20Live-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ENTER-000?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://swagata.tech">
+  <img src="https://img.shields.io/badge/DEMO-8A2BE2?style=flat-square&logo=firefox&logoColor=white"/>
 </a>
 
 </td>
 
-<td width="45%" align="center">
+<td width="50%" align="center">
 
 <a href="https://swagata.tech">
-  <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/main/portfolio.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/main/portfolio.png" width="90%" />
 </a>
 
 </td>
-
 </tr>
 </table>
 
 ---
+
+
+---
+
 
 ## 📦 Top Repositories
 
