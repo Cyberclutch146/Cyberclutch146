@@ -28,9 +28,6 @@
 <a href="https://swagata.tech">
   <img src="https://img.shields.io/badge/ENTER-000?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
-<a href="https://swagata.tech">
-  <img src="https://img.shields.io/badge/DEMO-8A2BE2?style=flat-square&logo=firefox&logoColor=white"/>
-</a>
 
 </td>
 
