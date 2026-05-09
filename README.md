@@ -41,6 +41,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyberclutch146&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00ffff&line=8A2BE2&point=ffffff" width="75%" alt="Activity Graph" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/main/github-metrics.svg" width="75%" alt="GitHub metrics generated with GitHub Actions" />
 </p>
 
