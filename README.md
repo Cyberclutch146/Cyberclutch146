@@ -31,30 +31,30 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cyberclutch146&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&rank_icon=github" height="165" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=Cyberclutch146&theme=tokyonight&hide_border=true&background=0d1117" height="165" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cyberclutch146&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&rank_icon=github" height="135" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=Cyberclutch146&theme=tokyonight&hide_border=true&background=0d1117" height="135" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cyberclutch146&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" height="165" alt="Top languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Cyberclutch146&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" height="165" alt="GitHub trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cyberclutch146&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" height="135" alt="Top languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Cyberclutch146&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" height="135" alt="GitHub trophies" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/main/github-metrics.svg" width="90%" alt="GitHub metrics generated with GitHub Actions" />
+  <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/main/github-metrics.svg" width="75%" alt="GitHub metrics generated with GitHub Actions" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/output/pacman-contribution-graph.svg" width="90%" alt="Pac-Man contribution graph" />
+  <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/output/pacman-contribution-graph.svg" width="75%" alt="Pac-Man contribution graph" />
 </p>
 
 <p align="center">
   <a href="https://swagata.tech">
-    <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/main/portfolio.png" width="45%" alt="Portfolio preview" />
+    <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/main/portfolio.png" width="38%" alt="Portfolio preview" />
   </a>
   &nbsp;
   <a href="https://github.com/Cyberclutch146/Community-management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cyberclutch146&repo=Community-management&theme=tokyonight&hide_border=true&bg_color=0d1117" width="45%" alt="Community-management repository" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cyberclutch146&repo=Community-management&theme=tokyonight&hide_border=true&bg_color=0d1117" width="38%" alt="Community-management repository" />
   </a>
 </p>
 
