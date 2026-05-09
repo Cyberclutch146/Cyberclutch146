@@ -51,17 +51,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/output/pacman-contribution-graph.svg" width="75%" alt="Pac-Man contribution graph" />
 </p>
-
-<p align="center">
-  <a href="https://swagata.tech">
-    <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/main/portfolio.png" width="38%" alt="Portfolio preview" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Cyberclutch146/Community-management">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Cyberclutch146&repo=Community-management&theme=tokyonight&hide_border=true&bg_color=0d1117" width="38%" alt="Community-management repository" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/main/footers/footer.svg" width="100%" alt="Footer" />
-</p>
