@@ -49,17 +49,6 @@
 
 ---
 
-
-## 📦 Top Repositories
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cyberclutch146&repo=Community-management&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cyberclutch146&repo=flux-whiteboard&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</p>
-
----
-
 ## ⚡ Tech Stack
 
 **Languages**  
