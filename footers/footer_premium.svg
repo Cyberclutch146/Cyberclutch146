@@ -1,0 +1,18 @@
+<svg width="100%" viewBox="0 0 860 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style><![CDATA[
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@600;800&family=JetBrains+Mono:wght@400;600;700&display=swap');
+      .t-big { font: 800 20px 'Outfit', sans-serif; fill: #ffffff; letter-spacing: 6px; text-transform: uppercase; }
+      .t-grad { font: 800 20px 'Outfit', sans-serif; fill: url(#g); letter-spacing: 6px; text-transform: uppercase; }
+      .t-sub { font: 500 11px 'JetBrains Mono', monospace; fill: #94a3b8; letter-spacing: 4px; text-transform: uppercase; }
+    ]]></style>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00ffff"/>
+      <stop offset="1" stop-color="#ff4dd2"/>
+    </linearGradient>
+  </defs>
+  <rect width="860" height="80" rx="14" fill="#020617" stroke="url(#g)" stroke-opacity="0.6"/>
+  <text x="430" y="36" class="t-big" text-anchor="middle">Let's build something </text>
+  <text x="430" y="60" class="t-grad" text-anchor="middle">dangerous together →</text>
+  <text x="430" y="74" class="t-sub" text-anchor="middle">open a ticket · send a ping · ship a feature</text>
+</svg>
