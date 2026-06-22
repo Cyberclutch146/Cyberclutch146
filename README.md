@@ -37,7 +37,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Cyberclutch146&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" height="135" alt="Top languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Cyberclutch146&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" height="135" alt="GitHub trophies" />
 </p>
 
 <p align="center">
