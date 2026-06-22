@@ -1,28 +1,2 @@
-<svg width="100%" viewBox="0 0 860 50" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style><![CDATA[
-      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500;700&display=swap');
-      .t { font: 700 13px 'JetBrains Mono', monospace; fill: #00ffff; letter-spacing: 3px; text-transform: uppercase; }
-      .t-pink { font: 700 13px 'JetBrains Mono', monospace; fill: #ff4dd2; letter-spacing: 3px; text-transform: uppercase; }
-      .t-mute { font: 500 13px 'JetBrains Mono', monospace; fill: #94a3b8; letter-spacing: 3px; text-transform: uppercase; }
-    ]]></style>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#030712" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#030712" stop-opacity="0.95"/>
-      <stop offset="1" stop-color="#030712" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-  <rect width="860" height="50" rx="10" fill="#020617" stroke="#00ffff55"/>
-  <text x="430" y="32" text-anchor="middle">
-    <tspan class="t">▸ BUILDING </tspan>
-    <tspan class="t-mute">· </tspan>
-    <tspan class="t-pink">SHIPPING </tspan>
-    <tspan class="t-mute">· </tspan>
-    <tspan class="t">LEARNING </tspan>
-    <tspan class="t-mute">· </tspan>
-    <tspan class="t-pink">ITERATING </tspan>
-    <tspan class="t-mute">· </tspan>
-    <tspan class="t">CYBERCLUTCH146 </tspan>
-    <tspan class="t-mute">· </tspan>
-  </text>
+﻿<?xml version="1.0" encoding="utf-8"?>
 </svg>

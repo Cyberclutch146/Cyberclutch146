@@ -30,13 +30,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/main/headers/projects.svg" width="100%" alt="Featured projects" />
+  <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/main/github-metrics.svg" width="75%" alt="GitHub metrics generated with GitHub Actions" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/main/footers/footer.svg" width="100%" alt="Footer" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/main/footers/footer_premium.svg" width="100%" alt="Premium footer" />
+  <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/output/pacman-contribution-graph.svg" width="75%" alt="Pac-Man contribution graph" />
 </p>

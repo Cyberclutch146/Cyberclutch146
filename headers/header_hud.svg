@@ -1,22 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <svg width="100%" viewBox="0 0 860 250" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style><![CDATA[
-      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@600;800;900&family=JetBrains+Mono:wght@400;600;700&display=swap');
+      800;900&family=JetBrains+Mono:wght@400;600;700&display=swap');
       .win { fill: #030712; fill-opacity: 0.85; stroke: url(#gb); stroke-width: 1.5; }
       .grid { stroke: #00ffff22; stroke-width: 0.6; }
       .glow-cyan { fill: #00ffff; filter: url(#cyanGlow); }
       .glow-pink { fill: #ff4dd2; filter: url(#pinkGlow); }
-      .t-title { font: 800 14px 'Outfit', sans-serif; fill: #00ffff; letter-spacing: 4px; text-transform: uppercase; }
-      .t-sub { font: 600 11px 'JetBrains Mono', monospace; fill: #94a3b8; letter-spacing: 2px; }
-      .t-name { font: 900 56px 'Outfit', sans-serif; fill: #ffffff; letter-spacing: 1px; }
-      .t-name-grad { font: 900 56px 'Outfit', sans-serif; fill: url(#nameGrad); letter-spacing: 1px; }
-      .t-role { font: 600 16px 'JetBrains Mono', monospace; fill: #00ffff; letter-spacing: 6px; text-transform: uppercase; }
-      .t-btn { font: 700 12px 'JetBrains Mono', monospace; fill: #ffffff; letter-spacing: 2px; text-transform: uppercase; }
-      .t-meta { font: 500 12px 'JetBrains Mono', monospace; fill: #cbd5e1; }
-      .t-meta-cyan { font: 600 12px 'JetBrains Mono', monospace; fill: #00ffff; }
+      .t-title { font: 800 14px 'Outfit', system-ui, -apple-system, sans-serif; fill: #00ffff; letter-spacing: 4px; text-transform: uppercase; }
+      .t-sub { font: 600 11px 'JetBrains Mono', Consolas, 'Courier New', monospace; fill: #94a3b8; letter-spacing: 2px; }
+      .t-name { font: 900 56px 'Outfit', system-ui, -apple-system, sans-serif; fill: #ffffff; letter-spacing: 1px; }
+      .t-name-grad { font: 900 56px 'Outfit', system-ui, -apple-system, sans-serif; fill: url(#nameGrad); letter-spacing: 1px; }
+      .t-role { font: 600 16px 'JetBrains Mono', Consolas, 'Courier New', monospace; fill: #00ffff; letter-spacing: 6px; text-transform: uppercase; }
+      .t-btn { font: 700 12px 'JetBrains Mono', Consolas, 'Courier New', monospace; fill: #ffffff; letter-spacing: 2px; text-transform: uppercase; }
+      .t-meta { font: 500 12px 'JetBrains Mono', Consolas, 'Courier New', monospace; fill: #cbd5e1; }
+      .t-meta-cyan { font: 600 12px 'JetBrains Mono', Consolas, 'Courier New', monospace; fill: #00ffff; }
       .dot { fill: #00ffff; }
       .pill { fill: #0a1426; stroke: #00ffff77; stroke-width: 1; }
-      .pill-text { font: 600 10px 'JetBrains Mono', monospace; fill: #00ffff; letter-spacing: 1px; }
+      .pill-text { font: 600 10px 'JetBrains Mono', Consolas, 'Courier New', monospace; fill: #00ffff; letter-spacing: 1px; }
     ]]></style>
     <linearGradient id="gb" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#00ffff" stop-opacity="0.7"/>
@@ -55,7 +56,7 @@
   <circle cx="62" cy="39" r="6" fill="#ffbd2e"/>
   <circle cx="82" cy="39" r="6" fill="#27c93f"/>
   <text x="120" y="44" class="t-sub">~/cyberclutch146 — system.boot — secure_shell@main</text>
-  <text x="800" y="44" class="t-sub" text-anchor="end">● ONLINE</text>
+  <text x="800" y="44" class="t-sub" text-anchor="end">? ONLINE</text>
   <circle cx="765" cy="39" r="4" class="dot"/>
 
   <!-- main glass window -->
@@ -95,7 +96,7 @@
     <text class="t-meta" x="60" y="100">LOCATION</text>
     <text class="t-meta-cyan" x="180" y="100" text-anchor="end">IN · IST</text>
     <text class="t-meta" x="60" y="120">STATUS</text>
-    <text class="t-meta-cyan" x="180" y="120" text-anchor="end">● SHIPPING</text>
+    <text class="t-meta-cyan" x="180" y="120" text-anchor="end">? SHIPPING</text>
   </g>
 
   <!-- corner accents -->

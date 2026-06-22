@@ -1,23 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <svg width="100%" viewBox="0 0 860 360" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style><![CDATA[
-      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@600;800&family=JetBrains+Mono:wght@400;600;700&display=swap');
+      800&family=JetBrains+Mono:wght@400;600;700&display=swap');
       .win { fill: #030712; fill-opacity: 0.85; stroke: url(#gb); stroke-width: 1.5; }
       .grid { stroke: #00ffff18; stroke-width: 0.6; }
-      .title { font: 800 13px 'Outfit', sans-serif; fill: #00ffff; letter-spacing: 3px; text-transform: uppercase; }
-      .sub { font: 500 11px 'JetBrains Mono', monospace; fill: #64748b; letter-spacing: 2px; text-transform: uppercase; }
-      .num { font: 900 44px 'Outfit', sans-serif; fill: #ffffff; }
-      .num-cyan { font: 900 44px 'Outfit', sans-serif; fill: #00ffff; }
-      .num-pink { font: 900 44px 'Outfit', sans-serif; fill: #ff4dd2; }
-      .lbl { font: 600 11px 'JetBrains Mono', monospace; fill: #94a3b8; letter-spacing: 2px; text-transform: uppercase; }
-      .meta { font: 500 11px 'JetBrains Mono', monospace; fill: #cbd5e1; }
+      .title { font: 800 13px 'Outfit', system-ui, -apple-system, sans-serif; fill: #00ffff; letter-spacing: 3px; text-transform: uppercase; }
+      .sub { font: 500 11px 'JetBrains Mono', Consolas, 'Courier New', monospace; fill: #64748b; letter-spacing: 2px; text-transform: uppercase; }
+      .num { font: 900 44px 'Outfit', system-ui, -apple-system, sans-serif; fill: #ffffff; }
+      .num-cyan { font: 900 44px 'Outfit', system-ui, -apple-system, sans-serif; fill: #00ffff; }
+      .num-pink { font: 900 44px 'Outfit', system-ui, -apple-system, sans-serif; fill: #ff4dd2; }
+      .lbl { font: 600 11px 'JetBrains Mono', Consolas, 'Courier New', monospace; fill: #94a3b8; letter-spacing: 2px; text-transform: uppercase; }
+      .meta { font: 500 11px 'JetBrains Mono', Consolas, 'Courier New', monospace; fill: #cbd5e1; }
       .bar { fill: #0a1426; stroke: #1e293b; stroke-width: 1; }
       .bar-fill { fill: url(#barGrad); }
       .bar-fill-pink { fill: url(#barGradPink); }
-      .log { font: 500 11px 'JetBrains Mono', monospace; fill: #cbd5e1; }
-      .log-cyan { font: 600 11px 'JetBrains Mono', monospace; fill: #00ffff; }
-      .log-pink { font: 600 11px 'JetBrains Mono', monospace; fill: #ff4dd2; }
-      .log-mute { font: 500 11px 'JetBrains Mono', monospace; fill: #475569; }
+      .log { font: 500 11px 'JetBrains Mono', Consolas, 'Courier New', monospace; fill: #cbd5e1; }
+      .log-cyan { font: 600 11px 'JetBrains Mono', Consolas, 'Courier New', monospace; fill: #00ffff; }
+      .log-pink { font: 600 11px 'JetBrains Mono', Consolas, 'Courier New', monospace; fill: #ff4dd2; }
+      .log-mute { font: 500 11px 'JetBrains Mono', Consolas, 'Courier New', monospace; fill: #475569; }
       .dot-cyan { fill: #00ffff; }
       .dot-pink { fill: #ff4dd2; }
       .dot-green { fill: #34d399; }
@@ -51,7 +52,7 @@
   <circle cx="60" cy="38" r="5" class="dot-cyan"/>
   <circle cx="78" cy="38" r="5" class="dot-green"/>
   <text x="110" y="42" class="sub">system.diagnostics — live_metrics.json</text>
-  <text x="810" y="42" class="sub" text-anchor="end">↻ REALTIME</text>
+  <text x="810" y="42" class="sub" text-anchor="end">? REALTIME</text>
 
   <!-- top row: 3 stat cards -->
   <g transform="translate(20, 70)">
