@@ -17,8 +17,6 @@
   <img src="https://komarev.com/ghpvc/?username=Cyberclutch146&color=21262d&style=flat-square&label=views" alt="Profile Views" />
 </p>
 
-<br>
-
 <h3 align="center">Stack</h3>
 
 <p align="center">
@@ -26,8 +24,6 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vite&theme=dark" /><br><br>
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,supabase,docker,git&theme=dark" />
 </p>
-
-<br>
 
 <h3 align="center">Activity</h3>
 
@@ -40,12 +36,6 @@
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Cyberclutch146&layout=compact&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&langs_count=6" height="140" alt="Languages" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyberclutch146&hide_border=true&bg_color=0d1117&color=8b949e&line=e6edf3&point=e6edf3&area=true&area_color=161b22" width="82%" alt="Activity Graph" />
-</p>
-
-<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/main/footers/footer.svg" width="100%" alt="Footer" />
