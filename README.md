@@ -9,17 +9,17 @@
   <a href="https://github.com/Cyberclutch146"><img src="https://img.shields.io/badge/GitHub-21262d?style=flat-square&logo=github&logoColor=e6edf3" alt="GitHub" /></a>
 </p>
 
-<br>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=300&size=16&duration=3000&pause=1000&color=8b949e&center=true&vCenter=true&width=400&lines=building+things+for+the+web;fullstack+%C2%B7+ai+%C2%B7+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=300&size=16&duration=3000&pause=1000&color=8b949e&center=true&vCenter=true&width=450&lines=building+things+for+the+web;fullstack+%C2%B7+ai+%C2%B7+systems;clean+code+%C2%B7+fast+backends+%C2%B7+sharp+uis" alt="Typing SVG" />
 </p>
 
-<br><br>
-
-<h3 align="center">Stack</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Cyberclutch146&color=21262d&style=flat-square&label=views" alt="Profile Views" />
+</p>
 
 <br>
+
+<h3 align="center">Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,java&theme=dark" /><br><br>
@@ -27,29 +27,25 @@
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,supabase,docker,git&theme=dark" />
 </p>
 
-<br><br>
+<br>
 
 <h3 align="center">Activity</h3>
 
-<br>
-
 <p align="center">
-  <picture>
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Cyberclutch146&show_icons=true&hide_border=true&bg_color=00000000&title_color=e6edf3&icon_color=8b949e&text_color=8b949e&ring_color=e6edf3&rank_icon=github" height="150" alt="Stats" />
-  </picture>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Cyberclutch146&show_icons=true&hide_border=true&bg_color=00000000&title_color=e6edf3&icon_color=8b949e&text_color=8b949e&ring_color=e6edf3&rank_icon=github" height="150" alt="Stats" />
   &nbsp;
-  <picture>
-    <img src="https://streak-stats.demolab.com?user=Cyberclutch146&hide_border=true&background=00000000&ring=e6edf3&fire=e6edf3&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=8b949e&dates=484f58" height="150" alt="Streak" />
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=Cyberclutch146&hide_border=true&background=00000000&ring=e6edf3&fire=e6edf3&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=8b949e&dates=484f58" height="150" alt="Streak" />
 </p>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Cyberclutch146&layout=compact&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&langs_count=6" height="140" alt="Languages" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyberclutch146&hide_border=true&bg_color=0d1117&color=8b949e&line=e6edf3&point=e6edf3&area=true&area_color=161b22" width="82%" alt="Activity Graph" />
 </p>
 
-<br><br>
+<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Cyberclutch146/Cyberclutch146/main/footers/footer.svg" width="100%" alt="Footer" />
