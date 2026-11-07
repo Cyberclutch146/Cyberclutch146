@@ -28,13 +28,13 @@
 <h3 align="center">Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Cyberclutch146&show_icons=true&hide_border=true&bg_color=00000000&title_color=e6edf3&icon_color=8b949e&text_color=8b949e&ring_color=e6edf3&rank_icon=github" height="150" alt="Stats" />
+  <img src="./profile/stats.svg" height="150" alt="Stats" />
   &nbsp;
-  <img src="https://streak-stats.demolab.com?user=Cyberclutch146&hide_border=true&background=00000000&ring=e6edf3&fire=e6edf3&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=8b949e&dates=484f58" height="150" alt="Streak" />
+  <img src="./profile/streak.svg" height="150" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Cyberclutch146&layout=compact&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&langs_count=6" height="140" alt="Languages" />
+  <img src="./profile/top-langs.svg" height="140" alt="Languages" />
 </p>
 
 <p align="center">
