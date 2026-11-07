@@ -29,7 +29,7 @@ jobs:
           card: stats
           options: "username=${{ github.repository_owner }}&show_icons=true&hide_border=true&bg_color=00000000&title_color=e6edf3&icon_color=8b949e&text_color=8b949e&ring_color=e6edf3&rank_icon=github"
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.README_STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
@@ -37,14 +37,14 @@ jobs:
           card: top-langs
           options: "username=${{ github.repository_owner }}&layout=compact&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&langs_count=6"
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.README_STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Generate streak card
         uses: DenverCoder1/github-readme-streak-stats@v1
         with:
           options: "user=${{ github.repository_owner }}&hide_border=true&background=00000000&ring=e6edf3&fire=e6edf3&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=8b949e&dates=484f58&disable_animations=true"
           path: profile/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.README_STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |
