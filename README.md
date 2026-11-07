@@ -18,10 +18,6 @@
 </p>
 
 <p align="center">
-  Currently building <a href="https://github.com/Cyberclutch146/DisasterML">DistraAI</a> &mdash; a flood &amp; landslide risk dashboard.
-</p>
-
-<p align="center">
   <img src="./dividers/divider.svg" width="100%" alt="" />
 </p>
 
