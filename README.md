@@ -17,20 +17,12 @@
   <img src="https://komarev.com/ghpvc/?username=Cyberclutch146&color=21262d&style=flat-square&label=views" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="./dividers/divider.svg" width="100%" alt="" />
-</p>
-
 <h3 align="center">Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,java,solidity&theme=dark" /><br><br>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vite&theme=dark" /><br><br>
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,supabase,docker,git&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="./dividers/divider.svg" width="100%" alt="" />
 </p>
 
 <h3 align="center">Activity</h3>
